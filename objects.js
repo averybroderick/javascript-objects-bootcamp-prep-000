@@ -1,3 +1,2 @@
-var playlist = {
-  theBeatles: "Let it Be";
-};
+var playlist = {};
+playlist.artist = "Song name";
