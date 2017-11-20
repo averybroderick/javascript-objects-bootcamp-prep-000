@@ -1,3 +1,3 @@
 var playlist = {
-  The Beatles: "Let it Be";
+  theBeatles: "Let it Be";
 };
